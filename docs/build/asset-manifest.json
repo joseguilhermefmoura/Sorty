@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sorty/static/css/main.42c80541.chunk.css",
+    "main.js": "/Sorty/static/js/main.ee7dfae2.chunk.js",
+    "main.js.map": "/Sorty/static/js/main.ee7dfae2.chunk.js.map",
+    "runtime-main.js": "/Sorty/static/js/runtime-main.439d736b.js",
+    "runtime-main.js.map": "/Sorty/static/js/runtime-main.439d736b.js.map",
+    "static/js/2.7f3d57d0.chunk.js": "/Sorty/static/js/2.7f3d57d0.chunk.js",
+    "static/js/2.7f3d57d0.chunk.js.map": "/Sorty/static/js/2.7f3d57d0.chunk.js.map",
+    "index.html": "/Sorty/index.html",
+    "precache-manifest.b94cbf38167dcbd00e8ffce3eff76f6f.js": "/Sorty/precache-manifest.b94cbf38167dcbd00e8ffce3eff76f6f.js",
+    "service-worker.js": "/Sorty/service-worker.js",
+    "static/css/main.42c80541.chunk.css.map": "/Sorty/static/css/main.42c80541.chunk.css.map",
+    "static/js/2.7f3d57d0.chunk.js.LICENSE.txt": "/Sorty/static/js/2.7f3d57d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.439d736b.js",
+    "static/js/2.7f3d57d0.chunk.js",
+    "static/css/main.42c80541.chunk.css",
+    "static/js/main.ee7dfae2.chunk.js"
+  ]
+}
